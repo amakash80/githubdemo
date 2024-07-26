@@ -1,4 +1,4 @@
- CREATE DATABASE TAMS_second;
+CREATE DATABASE TAMS_second;
 USE TAMS_second;
 DROP DATABASE TAMS_second;
 --USER table-only one user, admin (id, username, password, name)
